@@ -49,17 +49,41 @@ cmake_ninja_workdir = C$:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/
 
 build cmake_object_order_depends_target_Intern: phony || .
 
-build CMakeFiles/Intern.dir/src/BasicSyntax.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicSyntax.cpp || cmake_object_order_depends_target_Intern
-  DEP_FILE = CMakeFiles\Intern.dir\src\BasicSyntax.cpp.obj.d
+build CMakeFiles/Intern.dir/src/main.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/main.cpp || cmake_object_order_depends_target_Intern
+  DEP_FILE = CMakeFiles\Intern.dir\src\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Intern.dir
   OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src
 
-build CMakeFiles/Intern.dir/src/Simple.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/Simple.cpp || cmake_object_order_depends_target_Intern
-  DEP_FILE = CMakeFiles\Intern.dir\src\Simple.cpp.obj.d
+build CMakeFiles/Intern.dir/src/BasicOperations/ArithmeticOperators.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/ArithmeticOperators.cpp || cmake_object_order_depends_target_Intern
+  DEP_FILE = CMakeFiles\Intern.dir\src\BasicOperations\ArithmeticOperators.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Intern.dir
-  OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src\BasicOperations
+
+build CMakeFiles/Intern.dir/src/BasicOperations/LogicalOperators.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/LogicalOperators.cpp || cmake_object_order_depends_target_Intern
+  DEP_FILE = CMakeFiles\Intern.dir\src\BasicOperations\LogicalOperators.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Intern.dir
+  OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src\BasicOperations
+
+build CMakeFiles/Intern.dir/src/BasicOperations/Loop.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/Loop.cpp || cmake_object_order_depends_target_Intern
+  DEP_FILE = CMakeFiles\Intern.dir\src\BasicOperations\Loop.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Intern.dir
+  OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src\BasicOperations
+
+build CMakeFiles/Intern.dir/src/BasicOperations/StatemendOperator.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/StatemendOperator.cpp || cmake_object_order_depends_target_Intern
+  DEP_FILE = CMakeFiles\Intern.dir\src\BasicOperations\StatemendOperator.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Intern.dir
+  OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src\BasicOperations
+
+build CMakeFiles/Intern.dir/src/BasicOperations/UserInput.cpp.obj: CXX_COMPILER__Intern_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/UserInput.cpp || cmake_object_order_depends_target_Intern
+  DEP_FILE = CMakeFiles\Intern.dir\src\BasicOperations\UserInput.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Intern.dir
+  OBJECT_FILE_DIR = CMakeFiles\Intern.dir\src\BasicOperations
 
 
 # =============================================================================
@@ -69,7 +93,7 @@ build CMakeFiles/Intern.dir/src/Simple.cpp.obj: CXX_COMPILER__Intern_unscanned_D
 #############################################
 # Link the executable Intern.exe
 
-build Intern.exe: CXX_EXECUTABLE_LINKER__Intern_Debug CMakeFiles/Intern.dir/src/BasicSyntax.cpp.obj CMakeFiles/Intern.dir/src/Simple.cpp.obj
+build Intern.exe: CXX_EXECUTABLE_LINKER__Intern_Debug CMakeFiles/Intern.dir/src/main.cpp.obj CMakeFiles/Intern.dir/src/BasicOperations/ArithmeticOperators.cpp.obj CMakeFiles/Intern.dir/src/BasicOperations/LogicalOperators.cpp.obj CMakeFiles/Intern.dir/src/BasicOperations/Loop.cpp.obj CMakeFiles/Intern.dir/src/BasicOperations/StatemendOperator.cpp.obj CMakeFiles/Intern.dir/src/BasicOperations/UserInput.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Intern.dir
