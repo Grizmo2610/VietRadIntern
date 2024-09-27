@@ -1,0 +1,17 @@
+# ninja log v6
+4	575	7490801216175971	CMakeFiles/Intern.dir/main.cpp.obj	78cada16f3725bfe
+464	555	7491213716583777	Intern.exe	b2d421f5bf42c00b
+2	232	7491216441899057	build.ninja	4a4bb3f7c4fd8d21
+12	522	7490802510634908	CMakeFiles/Intern.dir/test.cpp.obj	8e6dda79c49a1da0
+6	468	7490801983538491	CMakeFiles/Intern.dir/src/HelloWorld.cpp.obj	fbf5240fd44e4113
+6	406	7491209568385622	CMakeFiles/Intern.dir/src/main.cpp.obj	e1d62ba476b0886
+6	464	7491213712004505	CMakeFiles/Intern.dir/src/BasicSyntax.cpp.obj	c9dd1d194f351263
+6	78	7491216613168787	CMakeFiles/Intern.dir/src/Simple.cpp.obj	3d5e770265185616
+6	54	7491216767662814	CMakeFiles/Intern.dir/src/Simple.cpp.obj	3d5e770265185616
+54	151	7491216768147078	Intern.exe	a4877ab90e32284d
+5	444	7491217027538959	CMakeFiles/Intern.dir/src/BasicSyntax.cpp.obj	c9dd1d194f351263
+445	539	7491217031934562	Intern.exe	a4877ab90e32284d
+5	481	7491217256596759	CMakeFiles/Intern.dir/src/BasicSyntax.cpp.obj	c9dd1d194f351263
+482	575	7491217261360683	Intern.exe	a4877ab90e32284d
+5	460	7491217358587074	CMakeFiles/Intern.dir/src/BasicSyntax.cpp.obj	c9dd1d194f351263
+461	549	7491217363138299	Intern.exe	a4877ab90e32284d
