@@ -13,6 +13,12 @@ void printCollatz(int number);
 // Function to check if a number is prime
 bool isPrime(int number);
 
+// Function to print to break point with condition
+void printNumber(int bound, int number);
+
+// Function to not print the number with the condition
+void printContinue(int bound, int number);
+
 // Main function to perform operations
 void loop();
 

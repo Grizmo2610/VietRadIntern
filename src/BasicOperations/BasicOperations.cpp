@@ -1,14 +1,15 @@
 #include <iostream>
-#include "BasicOperations/ArithmeticOperators.h"
-#include "BasicOperations/LogicalOperators.h"
-#include "BasicOperations/Loop.h"
-#include "BasicOperations/StatementOperator.h"
-#include "BasicOperations/UserInput.h"
+#include "ArithmeticOperators.h"
+#include "LogicalOperators.h"
+#include "Loop.h"
+#include "StatementOperator.h"
+#include "UserInput.h"
+
 using namespace std;
 
+int main(){
+    cout << "=====BASIC OPERATIONS=====" << endl;
 
-
-int main() {
     cout << "Arithmetic Operators"<< endl;
     ArithmeticOperators();
 

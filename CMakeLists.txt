@@ -3,15 +3,47 @@ project(Intern)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Intern src/main.cpp
-        src/BasicOperations/ArithmeticOperators.h
-        src/BasicOperations/ArithmeticOperators.cpp
-        src/BasicOperations/LogicalOperators.h
-        src/BasicOperations/LogicalOperators.cpp
-        src/BasicOperations/Loop.h
-        src/BasicOperations/Loop.cpp
-        src/BasicOperations/StatementOperator.h
-        src/BasicOperations/StatemendOperator.cpp
-        src/BasicOperations/UserInput.h
-        src/BasicOperations/UserInput.cpp
+include_directories(include/Array
+                    include/BasicOperations
+                    include/OOP
+                    include/DSA
+                    include/Exception
 )
+
+add_executable(BasicOperations
+        src/BasicOperations/ArithmeticOperators.cpp
+        src/BasicOperations/LogicalOperations.cpp
+        src/BasicOperations/Loop.cpp
+        src/BasicOperations/StatementOperator.cpp
+        src/BasicOperations/UserInput.cpp
+        src/BasicOperations/BasicOperations.cpp
+)
+
+add_executable(Array
+        src/Array/array.cpp
+        src/Array/Array1D.cpp
+        src/Array/Matrix.cpp
+)
+
+add_executable(OOP
+        src/OOP/OOPTest.cpp
+        src/OOP/Student.cpp
+)
+
+add_executable(DSA
+        src/DSA/DSA.cpp
+        src/DSA/VectorTest.cpp
+        src/DSA/AlgorithmImplentation.cpp
+        src/DSA/BST.cpp
+        src/DSA/BSTTest.cpp
+)
+
+add_executable(Leetcode
+        src/Leetcode/main.cpp
+)
+
+add_executable(Exception
+        src/Exception/ExceptionTest.cpp
+)
+
+file(GLOB SOURCES "src/*.cpp")
