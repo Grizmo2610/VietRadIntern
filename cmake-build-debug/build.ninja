@@ -52,42 +52,42 @@ build cmake_object_order_depends_target_BasicOperations: phony || .
 build CMakeFiles/BasicOperations.dir/src/BasicOperations/ArithmeticOperators.cpp.obj: CXX_COMPILER__BasicOperations_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/ArithmeticOperators.cpp || cmake_object_order_depends_target_BasicOperations
   DEP_FILE = CMakeFiles\BasicOperations.dir\src\BasicOperations\ArithmeticOperators.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\BasicOperations.dir
   OBJECT_FILE_DIR = CMakeFiles\BasicOperations.dir\src\BasicOperations
 
 build CMakeFiles/BasicOperations.dir/src/BasicOperations/LogicalOperations.cpp.obj: CXX_COMPILER__BasicOperations_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/LogicalOperations.cpp || cmake_object_order_depends_target_BasicOperations
   DEP_FILE = CMakeFiles\BasicOperations.dir\src\BasicOperations\LogicalOperations.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\BasicOperations.dir
   OBJECT_FILE_DIR = CMakeFiles\BasicOperations.dir\src\BasicOperations
 
 build CMakeFiles/BasicOperations.dir/src/BasicOperations/Loop.cpp.obj: CXX_COMPILER__BasicOperations_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/Loop.cpp || cmake_object_order_depends_target_BasicOperations
   DEP_FILE = CMakeFiles\BasicOperations.dir\src\BasicOperations\Loop.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\BasicOperations.dir
   OBJECT_FILE_DIR = CMakeFiles\BasicOperations.dir\src\BasicOperations
 
 build CMakeFiles/BasicOperations.dir/src/BasicOperations/StatementOperator.cpp.obj: CXX_COMPILER__BasicOperations_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/StatementOperator.cpp || cmake_object_order_depends_target_BasicOperations
   DEP_FILE = CMakeFiles\BasicOperations.dir\src\BasicOperations\StatementOperator.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\BasicOperations.dir
   OBJECT_FILE_DIR = CMakeFiles\BasicOperations.dir\src\BasicOperations
 
 build CMakeFiles/BasicOperations.dir/src/BasicOperations/UserInput.cpp.obj: CXX_COMPILER__BasicOperations_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/UserInput.cpp || cmake_object_order_depends_target_BasicOperations
   DEP_FILE = CMakeFiles\BasicOperations.dir\src\BasicOperations\UserInput.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\BasicOperations.dir
   OBJECT_FILE_DIR = CMakeFiles\BasicOperations.dir\src\BasicOperations
 
 build CMakeFiles/BasicOperations.dir/src/BasicOperations/BasicOperations.cpp.obj: CXX_COMPILER__BasicOperations_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/BasicOperations/BasicOperations.cpp || cmake_object_order_depends_target_BasicOperations
   DEP_FILE = CMakeFiles\BasicOperations.dir\src\BasicOperations\BasicOperations.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\BasicOperations.dir
   OBJECT_FILE_DIR = CMakeFiles\BasicOperations.dir\src\BasicOperations
 
@@ -121,21 +121,21 @@ build cmake_object_order_depends_target_Array: phony || .
 build CMakeFiles/Array.dir/src/Array/Array.cpp.obj: CXX_COMPILER__Array_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/Array/Array.cpp || cmake_object_order_depends_target_Array
   DEP_FILE = CMakeFiles\Array.dir\src\Array\Array.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\Array.dir
   OBJECT_FILE_DIR = CMakeFiles\Array.dir\src\Array
 
 build CMakeFiles/Array.dir/src/Array/Array1D.cpp.obj: CXX_COMPILER__Array_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/Array/Array1D.cpp || cmake_object_order_depends_target_Array
   DEP_FILE = CMakeFiles\Array.dir\src\Array\Array1D.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\Array.dir
   OBJECT_FILE_DIR = CMakeFiles\Array.dir\src\Array
 
 build CMakeFiles/Array.dir/src/Array/Matrix.cpp.obj: CXX_COMPILER__Array_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/Array/Matrix.cpp || cmake_object_order_depends_target_Array
   DEP_FILE = CMakeFiles\Array.dir\src\Array\Matrix.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\Array.dir
   OBJECT_FILE_DIR = CMakeFiles\Array.dir\src\Array
 
@@ -169,14 +169,42 @@ build cmake_object_order_depends_target_OOP: phony || .
 build CMakeFiles/OOP.dir/src/OOP/OOPTest.cpp.obj: CXX_COMPILER__OOP_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OOP/OOPTest.cpp || cmake_object_order_depends_target_OOP
   DEP_FILE = CMakeFiles\OOP.dir\src\OOP\OOPTest.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\OOP.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP.dir\src\OOP
 
 build CMakeFiles/OOP.dir/src/OOP/Student.cpp.obj: CXX_COMPILER__OOP_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OOP/Student.cpp || cmake_object_order_depends_target_OOP
   DEP_FILE = CMakeFiles\OOP.dir\src\OOP\Student.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\OOP.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP.dir\src\OOP
+
+build CMakeFiles/OOP.dir/src/OOP/Encapsulation.cpp.obj: CXX_COMPILER__OOP_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OOP/Encapsulation.cpp || cmake_object_order_depends_target_OOP
+  DEP_FILE = CMakeFiles\OOP.dir\src\OOP\Encapsulation.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\OOP.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP.dir\src\OOP
+
+build CMakeFiles/OOP.dir/src/OOP/Inheritance.cpp.obj: CXX_COMPILER__OOP_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OOP/Inheritance.cpp || cmake_object_order_depends_target_OOP
+  DEP_FILE = CMakeFiles\OOP.dir\src\OOP\Inheritance.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\OOP.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP.dir\src\OOP
+
+build CMakeFiles/OOP.dir/src/OOP/Polymorphism.cpp.obj: CXX_COMPILER__OOP_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OOP/Polymorphism.cpp || cmake_object_order_depends_target_OOP
+  DEP_FILE = CMakeFiles\OOP.dir\src\OOP\Polymorphism.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\OOP.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP.dir\src\OOP
+
+build CMakeFiles/OOP.dir/src/OOP/Abstraction.cpp.obj: CXX_COMPILER__OOP_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OOP/Abstraction.cpp || cmake_object_order_depends_target_OOP
+  DEP_FILE = CMakeFiles\OOP.dir\src\OOP\Abstraction.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\OOP.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP.dir\src\OOP
 
@@ -188,7 +216,7 @@ build CMakeFiles/OOP.dir/src/OOP/Student.cpp.obj: CXX_COMPILER__OOP_unscanned_De
 #############################################
 # Link the executable OOP.exe
 
-build OOP.exe: CXX_EXECUTABLE_LINKER__OOP_Debug CMakeFiles/OOP.dir/src/OOP/OOPTest.cpp.obj CMakeFiles/OOP.dir/src/OOP/Student.cpp.obj
+build OOP.exe: CXX_EXECUTABLE_LINKER__OOP_Debug CMakeFiles/OOP.dir/src/OOP/OOPTest.cpp.obj CMakeFiles/OOP.dir/src/OOP/Student.cpp.obj CMakeFiles/OOP.dir/src/OOP/Encapsulation.cpp.obj CMakeFiles/OOP.dir/src/OOP/Inheritance.cpp.obj CMakeFiles/OOP.dir/src/OOP/Polymorphism.cpp.obj CMakeFiles/OOP.dir/src/OOP/Abstraction.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\OOP.dir
@@ -210,35 +238,35 @@ build cmake_object_order_depends_target_DSA: phony || .
 build CMakeFiles/DSA.dir/src/DSA/DSA.cpp.obj: CXX_COMPILER__DSA_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/DSA/DSA.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles\DSA.dir\src\DSA\DSA.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\DSA.dir
   OBJECT_FILE_DIR = CMakeFiles\DSA.dir\src\DSA
 
 build CMakeFiles/DSA.dir/src/DSA/VectorTest.cpp.obj: CXX_COMPILER__DSA_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/DSA/VectorTest.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles\DSA.dir\src\DSA\VectorTest.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\DSA.dir
   OBJECT_FILE_DIR = CMakeFiles\DSA.dir\src\DSA
 
-build CMakeFiles/DSA.dir/src/DSA/AlgorithmImplentation.cpp.obj: CXX_COMPILER__DSA_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/DSA/AlgorithmImplentation.cpp || cmake_object_order_depends_target_DSA
-  DEP_FILE = CMakeFiles\DSA.dir\src\DSA\AlgorithmImplentation.cpp.obj.d
+build CMakeFiles/DSA.dir/src/DSA/AlgorithmImplementation.cpp.obj: CXX_COMPILER__DSA_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/DSA/AlgorithmImplementation.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles\DSA.dir\src\DSA\AlgorithmImplementation.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\DSA.dir
   OBJECT_FILE_DIR = CMakeFiles\DSA.dir\src\DSA
 
 build CMakeFiles/DSA.dir/src/DSA/BST.cpp.obj: CXX_COMPILER__DSA_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/DSA/BST.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles\DSA.dir\src\DSA\BST.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\DSA.dir
   OBJECT_FILE_DIR = CMakeFiles\DSA.dir\src\DSA
 
 build CMakeFiles/DSA.dir/src/DSA/BSTTest.cpp.obj: CXX_COMPILER__DSA_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/DSA/BSTTest.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles\DSA.dir\src\DSA\BSTTest.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\DSA.dir
   OBJECT_FILE_DIR = CMakeFiles\DSA.dir\src\DSA
 
@@ -250,7 +278,7 @@ build CMakeFiles/DSA.dir/src/DSA/BSTTest.cpp.obj: CXX_COMPILER__DSA_unscanned_De
 #############################################
 # Link the executable DSA.exe
 
-build DSA.exe: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/src/DSA/DSA.cpp.obj CMakeFiles/DSA.dir/src/DSA/VectorTest.cpp.obj CMakeFiles/DSA.dir/src/DSA/AlgorithmImplentation.cpp.obj CMakeFiles/DSA.dir/src/DSA/BST.cpp.obj CMakeFiles/DSA.dir/src/DSA/BSTTest.cpp.obj
+build DSA.exe: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/src/DSA/DSA.cpp.obj CMakeFiles/DSA.dir/src/DSA/VectorTest.cpp.obj CMakeFiles/DSA.dir/src/DSA/AlgorithmImplementation.cpp.obj CMakeFiles/DSA.dir/src/DSA/BST.cpp.obj CMakeFiles/DSA.dir/src/DSA/BSTTest.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DSA.dir
@@ -272,7 +300,7 @@ build cmake_object_order_depends_target_Leetcode: phony || .
 build CMakeFiles/Leetcode.dir/src/Leetcode/main.cpp.obj: CXX_COMPILER__Leetcode_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/Leetcode/main.cpp || cmake_object_order_depends_target_Leetcode
   DEP_FILE = CMakeFiles\Leetcode.dir\src\Leetcode\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\Leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles\Leetcode.dir\src\Leetcode
 
@@ -306,7 +334,7 @@ build cmake_object_order_depends_target_Exception: phony || .
 build CMakeFiles/Exception.dir/src/Exception/ExceptionTest.cpp.obj: CXX_COMPILER__Exception_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/Exception/ExceptionTest.cpp || cmake_object_order_depends_target_Exception
   DEP_FILE = CMakeFiles\Exception.dir\src\Exception\ExceptionTest.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
   OBJECT_DIR = CMakeFiles\Exception.dir
   OBJECT_FILE_DIR = CMakeFiles\Exception.dir\src\Exception
 
@@ -327,6 +355,122 @@ build Exception.exe: CXX_EXECUTABLE_LINKER__Exception_Debug CMakeFiles/Exception
   TARGET_FILE = Exception.exe
   TARGET_IMPLIB = libException.dll.a
   TARGET_PDB = Exception.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target File
+
+
+#############################################
+# Order-only phony target for File
+
+build cmake_object_order_depends_target_File: phony || .
+
+build CMakeFiles/File.dir/src/FileHandling/FileTest.cpp.obj: CXX_COMPILER__File_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/FileHandling/FileTest.cpp || cmake_object_order_depends_target_File
+  DEP_FILE = CMakeFiles\File.dir\src\FileHandling\FileTest.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\File.dir
+  OBJECT_FILE_DIR = CMakeFiles\File.dir\src\FileHandling
+
+build CMakeFiles/File.dir/src/FileHandling/File.cpp.obj: CXX_COMPILER__File_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/FileHandling/File.cpp || cmake_object_order_depends_target_File
+  DEP_FILE = CMakeFiles\File.dir\src\FileHandling\File.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\File.dir
+  OBJECT_FILE_DIR = CMakeFiles\File.dir\src\FileHandling
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target File
+
+
+#############################################
+# Link the executable File.exe
+
+build File.exe: CXX_EXECUTABLE_LINKER__File_Debug CMakeFiles/File.dir/src/FileHandling/FileTest.cpp.obj CMakeFiles/File.dir/src/FileHandling/File.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\File.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = File.exe
+  TARGET_IMPLIB = libFile.dll.a
+  TARGET_PDB = File.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target STL
+
+
+#############################################
+# Order-only phony target for STL
+
+build cmake_object_order_depends_target_STL: phony || .
+
+build CMakeFiles/STL.dir/src/StandardLibrary/IteratorTest.cpp.obj: CXX_COMPILER__STL_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/StandardLibrary/IteratorTest.cpp || cmake_object_order_depends_target_STL
+  DEP_FILE = CMakeFiles\STL.dir\src\StandardLibrary\IteratorTest.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\STL.dir
+  OBJECT_FILE_DIR = CMakeFiles\STL.dir\src\StandardLibrary
+
+build CMakeFiles/STL.dir/src/StandardLibrary/STLTest.cpp.obj: CXX_COMPILER__STL_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/StandardLibrary/STLTest.cpp || cmake_object_order_depends_target_STL
+  DEP_FILE = CMakeFiles\STL.dir\src\StandardLibrary\STLTest.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\STL.dir
+  OBJECT_FILE_DIR = CMakeFiles\STL.dir\src\StandardLibrary
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target STL
+
+
+#############################################
+# Link the executable STL.exe
+
+build STL.exe: CXX_EXECUTABLE_LINKER__STL_Debug CMakeFiles/STL.dir/src/StandardLibrary/IteratorTest.cpp.obj CMakeFiles/STL.dir/src/StandardLibrary/STLTest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\STL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = STL.exe
+  TARGET_IMPLIB = libSTL.dll.a
+  TARGET_PDB = STL.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target OpenCV
+
+
+#############################################
+# Order-only phony target for OpenCV
+
+build cmake_object_order_depends_target_OpenCV: phony || .
+
+build CMakeFiles/OpenCV.dir/src/OpenCV/main.cpp.obj: CXX_COMPILER__OpenCV_unscanned_Debug C$:/HoangTu/Programing/C/VietRad/Intern/src/OpenCV/main.cpp || cmake_object_order_depends_target_OpenCV
+  DEP_FILE = CMakeFiles\OpenCV.dir\src\OpenCV\main.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/HoangTu/Programing/C/VietRad/Intern/include/Array -IC:/HoangTu/Programing/C/VietRad/Intern/include/BasicOperations -IC:/HoangTu/Programing/C/VietRad/Intern/include/OOP -IC:/HoangTu/Programing/C/VietRad/Intern/include/DSA -IC:/HoangTu/Programing/C/VietRad/Intern/include/Exception -IC:/HoangTu/Programing/C/VietRad/Intern/include/File -IC:/HoangTu/Programing/C/VietRad/Intern/include/StandardLibrary
+  OBJECT_DIR = CMakeFiles\OpenCV.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenCV.dir\src\OpenCV
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target OpenCV
+
+
+#############################################
+# Link the executable OpenCV.exe
+
+build OpenCV.exe: CXX_EXECUTABLE_LINKER__OpenCV_Debug CMakeFiles/OpenCV.dir/src/OpenCV/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\OpenCV.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = OpenCV.exe
+  TARGET_IMPLIB = libOpenCV.dll.a
+  TARGET_PDB = OpenCV.exe.dbg
 
 
 #############################################
@@ -362,9 +506,15 @@ build DSA: phony DSA.exe
 
 build Exception: phony Exception.exe
 
+build File: phony File.exe
+
 build Leetcode: phony Leetcode.exe
 
 build OOP: phony OOP.exe
+
+build OpenCV: phony OpenCV.exe
+
+build STL: phony STL.exe
 
 # =============================================================================
 # Folder targets.
@@ -374,7 +524,7 @@ build OOP: phony OOP.exe
 #############################################
 # Folder: C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug
 
-build all: phony BasicOperations.exe Array.exe OOP.exe DSA.exe Leetcode.exe Exception.exe
+build all: phony BasicOperations.exe Array.exe OOP.exe DSA.exe Leetcode.exe Exception.exe File.exe STL.exe OpenCV.exe
 
 # =============================================================================
 # Built-in targets

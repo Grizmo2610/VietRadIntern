@@ -22,3 +22,13 @@ Knowledge gained:
 + Object-Oriented Programming
 + Common data structures (Using libraries).
 + Algorithms (Solving problems on leetcode.com)
+
+## Day 3: 03/10/2024 - Exception, Read and Writing File, DSA (Continue), Standard library, Into OpenCV, Template
+Knowledge Acquired:
++ Lambda
++ How to use some standard libraries (fstream, Iterator, Container)
++ Exception, exit code, Try catch
++ Reading and writing files
++ Dynamic Polymorphism
++ Practicing solving problems on LeetCode
++ Learning how to install and use OpenCV in C++

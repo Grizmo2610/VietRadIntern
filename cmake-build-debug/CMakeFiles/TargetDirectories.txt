@@ -4,5 +4,8 @@ C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/OOP.dir
 C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/DSA.dir
 C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/Leetcode.dir
 C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/Exception.dir
+C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/File.dir
+C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/STL.dir
+C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/OpenCV.dir
 C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/HoangTu/Programing/C/VietRad/Intern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
